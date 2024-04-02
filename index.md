@@ -1,4 +1,4 @@
-# There are different header types
-## You can add them with "#"
-### Header 3
-###### Header 6
+## Depiction of Yaktocat
+###### Around 2024 AD
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
